@@ -1,13 +1,15 @@
 A simple **user registration web application** built with **Python (Flask)**, **HTML/CSS/JavaScript**, and backed by a **PostgreSQL database**. This project demonstrates how to create a registration form, store user details securely, and manage database interactions with Postgres.
 
 ## 📂 Project Structure
-├── app.py                   # Main Flask application
-├── face_embeddings.py       # Script for handling face embeddings (optional feature)
-├── requirements.txt         # Python dependencies
-├── templates/               # HTML templates (UI pages)
-├── static/                  # CSS, JS, and static assets
-├── database/                # Database-related files/configurations
-└── .gitignore
+
+├── app.py
+├──  face_embeddings.py 
+├── requirements.txt
+├── static/
+    └── style.css
+    └── script.js
+└── templates/
+    └── index.html`
 
 ## 🚀 Features
 
