@@ -71,7 +71,7 @@ This project is a robust web application designed for user registration and mana
 Follow these steps to get your development environment up and running.
 
 ### Prerequisites
--   **Python 3.8+**: Ensure you have a compatible Python version installed.
+-   **Python 3.9+**: Ensure you have a compatible Python version installed.
 -   **PostgreSQL**: A running PostgreSQL server instance.
 -   **OpenCV Dependencies**: Depending on your OS, you might need additional system libraries for OpenCV.
 
@@ -134,17 +134,17 @@ Registration_UI_with_Postgres/
 ├── README.md              # Project README file
 ├── app.py                 # Main Flask application entry point, defines routes and logic
 ├── database/              # Directory for database-related scripts
-  ├── connection.py
-  ├── create_db.py
+| ├── connection.py
+| ├── create_db.py
 ├── face_embeddings.py     # Module for generating and comparing facial embeddings
 ├── requirements.txt       # Python dependency list
 ├── static/                # Static assets (CSS, JavaScript)
-  ├── css/
-    └── style.css          # Main stylesheet
-  └── js/
-    └── script.js          # Frontend JavaScript (e.g., for webcam interaction)
+|  ├── css/
+|   └── style.css          # Main stylesheet
+| └── js/
+|   └── script.js          # Frontend JavaScript (e.g., for webcam interaction)
 ├── templates/             # Jinja2 HTML templates for rendered views
-  ├── index.html           # Base template for consistent UI
+|  ├── index.html           # Base template for consistent UI
 ```
 
 ## ⚙️ Configuration
