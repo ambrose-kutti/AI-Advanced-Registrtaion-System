@@ -144,7 +144,7 @@ Registration_UI_with_Postgres/
 | └── js/
 |   └── script.js          # Frontend JavaScript (e.g., for webcam interaction)
 ├── templates/             # Jinja2 HTML templates for rendered views
-|  ├── index.html           # Base template for consistent UI
+|   └──index.html          # Base template for consistent UI
 ```
 
 ## ⚙️ Configuration
