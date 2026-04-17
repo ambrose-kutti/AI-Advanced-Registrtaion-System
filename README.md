@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ambrose-kutti/Registration_UI_with_Postgres?style=for-the-badge)](https://github.com/ambrose-kutti/Registration_UI_with_Postgres/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ambrose-kutti/Registration_UI_with_Postgres?style=for-the-badge)](https://github.com/ambrose-kutti/Registration_UI_with_Postgres/network)
 [![GitHub issues](https://img.shields.io/github/issues/ambrose-kutti/Registration_UI_with_Postgres?style=for-the-badge)](https://github.com/ambrose-kutti/Registration_UI_with_Postgres/issues)
+[![GitHub LICENSE](https://img.shields.io/github/license/ambrose-kutti/Registration_UI_with_Postgres?style=for-the-badge)](https://github.com/ambrose-kutti/Registration_UI_with_Postgres/license)
  <!-- TODO: Add actual license file -->
 
 **A secure user registration web application featuring Flask, PostgreSQL, and optional facial recognition using Dlib and OpenCV.**
